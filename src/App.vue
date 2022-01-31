@@ -4,7 +4,7 @@
   :data="this.$data"
   :toolbar="true"
   :colorTitle="'#3179f5'"
-  :colorBack="'#9b9ba316'"
+  :colorBack="'#131722'"
   :colorGrid="'#9b9ba316'"
   :colorCandleUp="'#d1d4dc'"
   :colorCandleDw="'#3179f5'"
